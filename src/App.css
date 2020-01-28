@@ -1,3 +1,16 @@
+.active-link {
+  color: green;
+  background-color: red;
+}
+
+.App p {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
 .App {
   text-align: center;
 }
